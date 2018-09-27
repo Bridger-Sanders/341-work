@@ -1,0 +1,21 @@
+Briefly describe one way how data travels on the internet.
+
+  Data is binary information made of bits that is divided up,
+  sent, then reassembled upon delivery. Data can be sent via
+  wi-fi, cable, or wire.
+
+What is the relationship between an IP address and the DNS?
+
+  A computer uses the DNS to find the corresponding IP
+  address in order to connect the computer to it.
+
+What is a cookie?
+
+  Data code that is used by websites to identify who you
+  are.
+
+List the three basic parts of a URL.
+
+  - Protocol
+  - Domain
+  - Path
